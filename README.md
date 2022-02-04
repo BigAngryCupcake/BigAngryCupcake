@@ -18,8 +18,11 @@ Thats my Spam account. :) Check my main [itsgiulian](https://github.com/itsgiuli
 <br></br>
   
   
-  <label >Lost time: </label> <a href="https://wakatime.com/@e04bd003-1507-43ac-a72c-56dfeed083d1"><img src="https://wakatime.com/badge/user/e04bd003-1507-43ac-a72c-56dfeed083d1.svg?style=flat-square" alt="Total time coded since Jan 11 2022" /></a>
+<div>
   
+  <label >Lost time: </label><a href="https://wakatime.com/@e04bd003-1507-43ac-a72c-56dfeed083d1"><img src="https://wakatime.com/badge/user/e04bd003-1507-43ac-a72c-56dfeed083d1.svg?style=flat-square" alt="Total time coded since Jan 11 2022" /></a>
+  
+  </div>  
   
   <br></br>
 
